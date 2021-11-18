@@ -1,0 +1,71 @@
+body{
+  background-image: url(areia.jfif);
+}
+
+#cabecalho {
+background-image: url(cabecalho.jpg); 
+height: 300px;
+padding-left: 200px;
+padding-top: 100px;
+text-align: left;
+font-family: cursive;
+color: rgba(173, 7, 7, 0.863);
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#perfil {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 100px;
+}
+
+
+#eu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: teal;
+
+}
+
+#beachtennis {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+
+#bt {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: right;
+  padding-right: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: teal;
+}
+
+#sobremim {
+  color: brown;
+}
+
+#titulo {
+  color: brown;
+}
+
+#rodape {
+  width: 100%;
+}
+
